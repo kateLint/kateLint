@@ -45,5 +45,4 @@ Building AI that doesn't replace humans—it empowers them.
 ---
 
 💼 Open for: Ambitious projects • AI collaborations • Impossible challenges  
-📍 Tel Aviv, Israel | 🌍 Shipping code globally  
 ⚡ Fun fact: I debug with intuition and a lot of coffee
