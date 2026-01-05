@@ -1,6 +1,6 @@
 # 🚀 Keren Lint | Code Architect & AI Innovator
 
-> *"Building intelligent systems that don't just work—they think."*
+> *"Building intelligent systems that don't just work-they think."*
 
 ## 💥 What I Do
 
